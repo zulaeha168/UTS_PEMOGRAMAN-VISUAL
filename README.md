@@ -11,11 +11,6 @@ DOSEN PENGAMPU : EKO BUDIARTO, S.Kom., M.M.
 MATA KULIAH    : PEMOGRAMAN VISUAL
 
 
-## Demo Program 
-
-
-https://github.com/user-attachments/assets/f9d37868-e84c-471b-9686-e8cd3c3e132e
-
 
 ## Praktikum 6 dan 7
 
@@ -39,8 +34,6 @@ https://github.com/user-attachments/assets/f9d37868-e84c-471b-9686-e8cd3c3e132e
 
 ## Update Data
 ![Screenshot 2024-11-07 190910](https://github.com/user-attachments/assets/06d0e446-7b2f-4a9e-aa1a-9c1c8880eb52)
-
-![Screenshot 2024-11-07 190910](https://github.com/user-attachments/assets/2688fe5f-e2aa-4734-af6f-799585c76489)
 
 ![Screenshot 2024-11-07 190926](https://github.com/user-attachments/assets/f978dd67-ee07-4306-8327-d2c7e908603c)
 
