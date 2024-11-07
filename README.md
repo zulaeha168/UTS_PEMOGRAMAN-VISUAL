@@ -18,7 +18,7 @@ MATA KULIAH    : PEMOGRAMAN VISUAL
 ![Screenshot 2024-11-07 180428](https://github.com/user-attachments/assets/20e03351-75d2-44f5-b22d-5918457fb7e4)
 
 ## Koneksi
-![Screenshot 2024-11-07 174426](https://github.com/user-attachments/assets/1b8bcf95-07e6-48f3-bb7b-2fda1c48e74e)
+![Screenshot 2024-11-07 193746](https://github.com/user-attachments/assets/abbe8198-b0f6-46a8-b917-7a6ad1054f75)
 
 ## Submit/Tambah Data
 ![Screenshot 2024-11-07 191013](https://github.com/user-attachments/assets/f88dd157-6a6c-401f-a86f-4a540560cfa6)
