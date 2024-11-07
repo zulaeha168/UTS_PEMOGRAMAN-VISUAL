@@ -12,6 +12,13 @@ MATA KULIAH    : PEMOGRAMAN VISUAL
 
 
 
+## Demo Program
+
+
+https://github.com/user-attachments/assets/3e6b2263-e692-496e-85b1-c2905461e421
+
+
+
 ## Praktikum 6 dan 7
 
 ## DESAIN
