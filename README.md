@@ -20,28 +20,31 @@ MATA KULIAH    : PEMOGRAMAN VISUAL
 ## Koneksi
 ![Screenshot 2024-11-07 174426](https://github.com/user-attachments/assets/1b8bcf95-07e6-48f3-bb7b-2fda1c48e74e)
 
-## Submit/Tambah Data
-![Screenshot 2024-11-07 174725](https://github.com/user-attachments/assets/3a3f861b-34df-4617-80b0-5a2d5eda877c)
+## Submit/Tambah Data\
+![Screenshot 2024-11-07 191013](https://github.com/user-attachments/assets/f88dd157-6a6c-401f-a86f-4a540560cfa6)
 
-![Screenshot 2024-11-07 174756](https://github.com/user-attachments/assets/fc5083fc-06a1-4c08-a7e3-c0fcd3f3190d)
+![Screenshot 2024-11-07 190724](https://github.com/user-attachments/assets/6733eb2d-5847-4908-b50b-e99883be5dfa)
+
+![Screenshot 2024-11-07 190813](https://github.com/user-attachments/assets/0dd47fb3-4c90-4889-86fb-2cf9843551a6)
+
+## Clear Data
+![Screenshot 2024-11-07 190829](https://github.com/user-attachments/assets/e8ba32ef-ca2a-4ee8-9e86-296d61104f6a)
+
+![Screenshot 2024-11-07 190840](https://github.com/user-attachments/assets/aefa848b-611a-4680-8cd0-f444105a4652)
 
 ## Update Data
-![Screenshot 2024-11-07 175141](https://github.com/user-attachments/assets/8e5c4f45-a13b-41c0-8d85-a47c04a92528)
+![Screenshot 2024-11-07 190910](https://github.com/user-attachments/assets/2688fe5f-e2aa-4734-af6f-799585c76489)
 
-![Screenshot 2024-11-07 175239](https://github.com/user-attachments/assets/649764f9-3dda-494e-beae-a1b1125e7fd6)
-
-![Screenshot 2024-11-07 175404](https://github.com/user-attachments/assets/fbe3a3ed-6a63-4ad8-8a8a-05e7bfe5a949)
+![Screenshot 2024-11-07 190926](https://github.com/user-attachments/assets/f978dd67-ee07-4306-8327-d2c7e908603c)
 
 ## Delete Data
-![Screenshot 2024-11-07 175548](https://github.com/user-attachments/assets/8bb70cbc-0d1c-474a-93d0-985fbc527293)
 
-![Screenshot 2024-11-07 175636](https://github.com/user-attachments/assets/39af9ccc-2fd3-41ec-9298-0dc0365354a9)
+![Screenshot 2024-11-07 190944](https://github.com/user-attachments/assets/2781a080-9a00-43f6-91da-f4e1faafe183)
 
-![Screenshot 2024-11-07 175714](https://github.com/user-attachments/assets/1428f70b-84a9-4157-9e48-cb4b0318677b)
-
+![Screenshot 2024-11-07 190957](https://github.com/user-attachments/assets/0c27abc7-a66d-4a8c-8357-1743a1fbb565)
 
 
-
+![Screenshot 2024-11-07 191013](https://github.com/user-attachments/assets/8fcb87ad-44ed-49dc-bd3d-fa6149c53ce4)
 
 
 
