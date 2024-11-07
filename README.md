@@ -15,7 +15,11 @@ MATA KULIAH    : PEMOGRAMAN VISUAL
 ## Demo Program
 
 
-https://github.com/user-attachments/assets/3e6b2263-e692-496e-85b1-c2905461e421
+
+https://github.com/user-attachments/assets/eb427c11-2fdb-4c74-8abc-842ad0c360ac
+
+
+
 
 
 
