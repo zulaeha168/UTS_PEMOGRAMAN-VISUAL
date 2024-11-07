@@ -11,6 +11,11 @@ DOSEN PENGAMPU : EKO BUDIARTO, S.Kom., M.M.
 MATA KULIAH    : PEMOGRAMAN VISUAL
 
 
+## Demo Program 
+
+
+https://github.com/user-attachments/assets/f9d37868-e84c-471b-9686-e8cd3c3e132e
+
 
 ## Praktikum 6 dan 7
 
