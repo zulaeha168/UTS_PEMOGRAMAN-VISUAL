@@ -12,10 +12,7 @@ MATA KULIAH    : PEMOGRAMAN VISUAL
 
 
 
-## Laporan Praktikum
-
-Berikut adalah Laporan Praktikumnya [UTS Pemograman Visual_Zulaeha.pdf](https://github.com/user-attachments/files/17660576/UTS.Pemograman.Visual_Zulaeha.pdf)
-
+## Praktikum 6 dan 7
 
 ## DESAIN
 ![Screenshot 2024-11-07 180428](https://github.com/user-attachments/assets/20e03351-75d2-44f5-b22d-5918457fb7e4)
